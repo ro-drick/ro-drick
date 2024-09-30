@@ -15,7 +15,7 @@
 
 💬 Ask me about **CCNA topics... or anything**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **-**
 
  </div>
  
