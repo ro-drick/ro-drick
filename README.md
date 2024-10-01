@@ -15,7 +15,7 @@
 
 💬 Ask me about **CCNA topics... or anything**
 
-⚡ Fun fact **-**
+⚡ Fun fact **--**
 
  </div>
  
