@@ -1,13 +1,12 @@
 <h1 align="center"><a href="https://git.io/typing-svg">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gill+Sans&size=30&duration=1&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%8C%B3RODRICK+CHERUIYOT%F0%9F%8C%B3" alt="Typing SVG" /></a>
 </h1>
-
 <h3 align="center"><ins>👨🏻‍💻Junior Network Engineer 👨🏻‍🔧</ins></h3>
 
 <br/>
 
 <div>
-    <h2>✭About me✭</h2>
+    <h2>✭About me✭ <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></h2>
     <ul>
         <li>
             🌐I design, configure and implement networks on the daily from VLANs to routing protocols to network security, you name it!🌐
@@ -62,13 +61,35 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Tools ⚒️</h2>
+<h2 align="center">✪ Tools I Use ✪</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=windows,vscode,ubuntu,html,css,stackoverflow,github,sqlite,regex,git,debian" />
-    <img src="https://skillicons.dev/icons?i=powershell,python,notion,obsidian,mysql,mint,linux,linkedin,kali,java" /><br>
-</div>
 
+<div>
+    <img src= "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img src= "https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"/>
+    <img src= "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
+    
+</div>
 <br/>
 <hr/>
 
