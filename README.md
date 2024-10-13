@@ -96,7 +96,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-![snake gif](https://github.com/ro-drick/ro-drick/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://github.com/ro-drick/ro-drick/blob/output/github-contribution-grid-snake2.svg" alt="snake animation" />
   <br/><br/><br/>
 </div>
 
