@@ -1,4 +1,8 @@
-
+<style>
+    .image-margin{
+        margin-left: 20px;
+    }
+</style>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I+am+Rodrick!;" />
 </h1>
@@ -54,11 +58,12 @@
 <br>
 
 <div align="center">
+    
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=ro-drick&theme=dark" alt="GitHub Streak">
   </a>
+    <img class= "image-margin" src="https://github-readme-stats.vercel.app/api?username=ro-drick&show_icons=true&theme=dark&locale=en" alt="ro-drick" />
 </div>
-<br/><br/>
 
 <hr/>
 
