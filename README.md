@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gill+Sans&size=30&duration=1&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%8C%B3RODRICK+CHERUIYOT%F0%9F%8C%B3" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center"><ins>👨🏻‍💻Junior Network Engineer 👨🏻‍🔧</ins></h3>
+<h3 align="center">👨🏻‍💻<ins>Junior Network Engineer</ins>👨🏻‍💻</h3>
 
 <br/>
 
