@@ -6,7 +6,7 @@
 <br/>
 
 <div>
-    <h2>✭About me✭ <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></h2>
+    <h2>✭ About me ✭ <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></h2>
     <ul>
         <li>
             🌐I design, configure and implement networks on the daily from VLANs to routing protocols to network security, you name it!🌐
@@ -94,7 +94,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🔷 My Contributions 🔷</h2>
   <br>
 <img src="https://github.com/ro-drick/ro-drick/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
   <br/><br/><br/>
@@ -102,13 +102,13 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">🏆 Stats 🏆</h2>
 <br>
 
 <div align="center">
     
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ro-drick&theme=dark" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com/?user=ro-drick&theme=merko" alt="GitHub Streak">
   </a>
     <img class= "image-margin" src="https://github-readme-stats.vercel.app/api?username=ro-drick&show_icons=true&theme=dark&locale=en" alt="ro-drick" />
 </div>
