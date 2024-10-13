@@ -106,11 +106,11 @@
 <br>
 
 <div align="center">
-    
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ro-drick&theme=merko" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com/?user=ro-drick&theme=merko" alt="GitHub Streak" width="400"/>
   </a>
-    <img class= "image-margin" src="https://github-readme-stats.vercel.app/api?username=ro-drick&show_icons=true&theme=merko&locale=en" alt="ro-drick" />
+  &nbsp; <!-- Adds space between the images -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ro-drick&show_icons=true&theme=merko&locale=en" alt="ro-drick" width="400"/>
 </div>
 
 <hr/>
