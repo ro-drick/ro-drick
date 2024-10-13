@@ -110,7 +110,7 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=ro-drick&theme=merko" alt="GitHub Streak">
   </a>
-    <img class= "image-margin" src="https://github-readme-stats.vercel.app/api?username=ro-drick&show_icons=true&theme=dark&locale=en" alt="ro-drick" />
+    <img class= "image-margin" src="https://github-readme-stats.vercel.app/api?username=ro-drick&show_icons=true&theme=merko&locale=en" alt="ro-drick" />
 </div>
 
 <hr/>
