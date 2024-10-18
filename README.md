@@ -8,7 +8,7 @@
 <br/>
 
 <div>
-    <h2>✭ About me ✭ <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></h2>
+    <h2 align="center">✭ About me ✭ <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></h2>
     <ul>
         <li>
             🌐I design, configure and implement networks on the daily from VLANs to routing protocols to network security, you name it!🌐
