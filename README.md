@@ -46,8 +46,8 @@
 </div>
 
 <br/>
- 
- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Nothing%20in%20this%20world%20can%20take%20the%20place%20of%20persistence.%20Talent%20will%20not;%20nothing%20is%20more%20common%20than%20unsuccessful%20men%20with%20talent.%20Genius%20will%20not;%20unrewarded%20genius%20is%20almost%20a%20proverb.%20Education%20will%20not;%20the%20world%20is%20full%20of%20educated%20derelicts.%20Persistence%20and%20determination%20alone%20are%20omnipotent.%20The%20slogan%20%27Press%20On!%27%20has%20solved%20and%20always%20will%20solve%20the%20problems%20of%20the%20human%20race.)](https://github.com/piyushsuthar/github-readme-quotes)
+
+ [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
  
 <div align="center"> 
