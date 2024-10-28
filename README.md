@@ -44,9 +44,12 @@
         </li>
     </ul>
 </div>
+
 <br/>
-<blockquote>Nothing in this world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and determination alone are omnipotent. The slogan 'Press On!' has solved and always will solve the problems of the human race.</blockquote>
- <br/>
+ 
+ [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Nothing%20in%20this%20world%20can%20take%20the%20place%20of%20persistence.%20Talent%20will%20not;%20nothing%20is%20more%20common%20than%20unsuccessful%20men%20with%20talent.%20Genius%20will%20not;%20unrewarded%20genius%20is%20almost%20a%20proverb.%20Education%20will%20not;%20the%20world%20is%20full%20of%20educated%20derelicts.%20Persistence%20and%20determination%20alone%20are%20omnipotent.%20The%20slogan%20%27Press%20On!%27%20has%20solved%20and%20always%20will%20solve%20the%20problems%20of%20the%20human%20race.)](https://github.com/piyushsuthar/github-readme-quotes)
+
+ 
 <div align="center"> 
   <a href="mailto:rodrickcheruiyot@outlook.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
