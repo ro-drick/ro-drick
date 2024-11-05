@@ -40,6 +40,7 @@
                 <li>🗺Geography🗺</li>
                 <li>📎Learning German📎</li>
                 <li>📽Classic Movies📽</li>
+                <li>Gardening</li>
             </ul>
         </li>
     </ul>
