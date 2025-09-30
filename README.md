@@ -4,7 +4,7 @@
     
 ![](https://komarev.com/ghpvc/?username=ro-drick&color=blue&style=plastic)
 
-<h3 align="center">👨🏻‍💻<ins>Junior Network Engineer</ins>👨🏻‍💻</h3>
+<h3 align="center">👨🏻‍💻<ins>IT Graduate | Network Projects • Cybersecurity Labs • Python Automation</ins>👨🏻‍💻</h3>
     <img src="https://github.com/ro-drick/ro-drick/blob/main/hello-there.png"/>
 
 <br/>
